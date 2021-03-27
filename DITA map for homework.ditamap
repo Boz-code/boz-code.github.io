@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>SUPer Fun</title>
+    <topicmeta>
+        <author>Bożena</author>
+    </topicmeta>
+    <topicref href="topics/c_About_sup.dita">
+        <topicref href="topics/c_sup_history.dita"/>
+        <topicref href="topics/c_sup_reference.dita"/>
+        <topicref href="topics/c_types_of_boards.dita"/>
+    </topicref>
+    <topicref href="topics/c_how_to.dita">
+        <topicref href="topics/t_How_to_paddle.dita"/>
+        <topicref href="topics/t_How_to_pump_a_paddle_board.dita"/>
+    </topicref>
+    <topicref href="topics/glossary/c_glossary.dita">
+        <topicref href="topics/glossary/g_EVA.dita"/>
+        <topicref href="topics/glossary/g_Inflatable.dita"/>
+        <topicref href="topics/glossary/g_SUP.dita"/>
+    </topicref>
+</map>
